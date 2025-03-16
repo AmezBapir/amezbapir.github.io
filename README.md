@@ -5,5 +5,4 @@
 
 
 ## Education
-
 - B.E., Information System Engineering | Erbil Polytechnic University (_June 2024_)
