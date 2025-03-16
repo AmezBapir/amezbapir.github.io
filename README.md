@@ -1,1 +1,3 @@
-# amezbapir.github.io
+# Aspiring Data Analyst
+
+#### Technical Skills: Python, Microsoft Excel, Power BI, Network Security
