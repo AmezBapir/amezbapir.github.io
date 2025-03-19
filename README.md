@@ -18,3 +18,7 @@
 - Participate in workshops, seminars, and certifications to enhance your expertise in the taught subjects.
 
 **Data Assistant @ Delta Communications.Internship(July 2023 _ Augest 2023)**
+- Managed and organized large datasets by sorting, categorizing, and maintaining structured data records, ensuring ease of access and retrieval.
+- Assisted in data entry, validation, and cleaning processes by cross-referencing information, eliminating errors, and ensuring high levels of accuracy and consistency.
+- Ensured adherence to data security and confidentiality policies by following strict guidelines on handling sensitive information and maintaining compliance with company regulations.
+- Stayed updated with data management trends and best practices to improve workflow efficiency, optimize data processing methods, and contribute to continuous improvement in data handling.
