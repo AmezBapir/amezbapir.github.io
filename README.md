@@ -17,4 +17,4 @@
 - Supervise students in lab activities, ensuring safe and effective use of tools and technologies.
 - Participate in workshops, seminars, and certifications to enhance your expertise in the taught subjects.
 
-  **Data Assistant @ Delta Communications.Internship(July 2023 _ Augest 2023)**
+**Data Assistant @ Delta Communications.Internship(July 2023 _ Augest 2023)**
