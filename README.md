@@ -6,6 +6,7 @@
 
 ## Education
 - B.E., Information System Engineering | Erbil Polytechnic University (_June 2024_)
+  
 ## Work Experience
 Teacher ● Mad Institute(july 2024)
 ● Design and develop comprehensive lesson plans, course materials, and practical exercises for Network Security, Wireless Networks, Network Programming (Python), and Windows.
