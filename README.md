@@ -1,12 +1,12 @@
 # Aspiring Data Analyst
 
-#### Programming:		                Python, Basic SQL, Excel 
-#### visualization:		              Basic Power BI, Excel Charts (Pivot Chart), Jupyter Notebook 
-#### Database:			                MySQL
-#### Data Analysis Tools:           Microsoft Excel (VLOOKUP, XLOOKUP, INDEX & MATCH, Pivot Tables), Visual Studio
-#### Data Management:               Data visualization, Data validation, Data transformation
-#### Tools:                         Chat GPT for Data Analytics
-
+### Technical Skills:
+<span style="font-size: 14px; font-weight: bold;">Programming:</span> Python, Basic SQL, Excel 
+<span style="font-size: 14px; font-weight: bold;">Visualization:</span> Basic Power BI, Excel Charts (Pivot Chart), Jupyter Notebook   
+<span style="font-size: 14px; font-weight: bold;">Database:</span> MySQL
+<span style="font-size: 14px; font-weight: bold;">Data Analysis Tools:</span>  Microsoft Excel (VLOOKUP, XLOOKUP, INDEX & MATCH, Pivot Tables), Visual Studio
+<span style="font-size: 14px; font-weight: bold;">Data Management:</span> Data visualization, Data validation, Data transformation
+<span style="font-size: 14px; font-weight: bold;">Tools:</span> Chat GPT for Data Analytics
 
 
 ## Education
