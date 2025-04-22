@@ -1,6 +1,11 @@
 # Aspiring Data Analyst
 
-#### Technical Skills: Python, Microsoft Excel, SQL, Power BI, Network Security
+#### Programming:		                Python, Basic SQL, Excel 
+#### visualization:		              Basic Power BI, Excel Charts (Pivot Chart), Jupyter Notebook 
+#### Database:			                MySQL
+#### Data Analysis Tools:           Microsoft Excel (VLOOKUP, XLOOKUP, INDEX & MATCH, Pivot Tables), Visual Studio
+#### Data Management:               Data visualization, Data validation, Data transformation
+#### Tools:                         Chat GPT for Data Analytics
 
 
 
@@ -8,16 +13,17 @@
 - B.E., Information System Engineering | Erbil Polytechnic University (_June 2024_)
   
 ## Work Experience
-**Teacher @ Mad Institute(July 2024)**
-- Design and develop comprehensive lesson plans, course materials, and practical exercises for Network Security, Wireless Networks, Network Programming (Python), and Windows.
-- Stay updated with the latest industry trends and integrate them into the curriculum.
-- Deliver engaging lectures, hands-on workshops, and lab sessions to ensure students gain practical and theoretical knowledge.
-- Simplify complex concepts to make them accessible and understandable for students of varying skill levels.
-- Provide real-world examples and case studies to demonstrate concepts like securing networks, configuring wireless systems, writing Python scripts for networking, and managing Windows environments.
-- Supervise students in lab activities, ensuring safe and effective use of tools and technologies.
-- Participate in workshops, seminars, and certifications to enhance your expertise in the taught subjects.
+**Python Teacher @ Mad Institute(Sep 2024 - Present)**
+-	Designed and delivered training sessions focused on Python for data manipulation and analysis.
+-	Created structured lesson plans and hands-on exercises simulating real-world data tasks, including cleaning, filtering, and summarizing datasets.
+-	Introduced students to Excel for data handling, formula building, pivot tables, and charting for effective reporting.
+-	Provided examples and mini-projects involving basic reporting, performance tracking, and data-driven decision making.
+- Collected, cleaned, and analyzed large datasets to uncover meaningful business insights. 
+- Utilized advanced Excel functions, pivot tables, and excel charts to efficiently organize, visualize, and report data.
+- Provided key findings and trends to support informed decision-making.
 
-**Data Assistant @ Delta Communications.Internship(July 2023 _ Augest 2023)**
+
+**Data Assistant @ Delta Communications.Internship(July 2023 - September 2023)**
 - Managed and organized large datasets by sorting, categorizing, and maintaining structured data records, ensuring ease of access and retrieval.
 - Assisted in data entry, validation, and cleaning processes by cross-referencing information, eliminating errors, and ensuring high levels of accuracy and consistency.
 - Ensured adherence to data security and confidentiality policies by following strict guidelines on handling sensitive information and maintaining compliance with company regulations.
